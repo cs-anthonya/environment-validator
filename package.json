@@ -1,0 +1,27 @@
+{
+  "name": "fd-environment-validator",
+  "version": "1.0.2",
+  "description": "Library that valdiates if your guard variable in environment is declared",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cs-anthonya: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@github.com/cs-anthonya/environment-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-anthonya/environment-validator/issues"
+  },
+  "homepage": "https://github.com/cs-anthonya/environment-validator#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
